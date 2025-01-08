@@ -20,6 +20,8 @@ public class Tracker {
             entries.remove(entry);
 
         entries.remove(entry);
+
+        Anmol
     }
 
     public int size() {
