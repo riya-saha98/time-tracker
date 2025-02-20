@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_744126_customapp.end_user" name="x_744126_customapp.end_user">c9b10549c3fb12102bbcdf3d0501310a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-16 17:55:17</sys_created_on>
+        <sys_id>05b10549c3fb12102bbcdf3d0501310c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c9b10549c3fb12102bbcdf3d0501310a</sys_name>
+        <sys_package display_value="customapp" source="x_744126_customapp">06ac7081c3fb12102bbcdf3d050131d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="customapp">06ac7081c3fb12102bbcdf3d050131d8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_05b10549c3fb12102bbcdf3d0501310c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-16 17:55:17</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
