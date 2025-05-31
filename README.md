@@ -1,6 +1,1 @@
-# time-tracker
-Java (Maven) application for tracking time on the job
-
-Time tracker !
-
-Good night students!!!!
+updated the readme file to check the PR reviewer plugin.
